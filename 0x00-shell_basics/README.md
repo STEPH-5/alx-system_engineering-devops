@@ -7,3 +7,4 @@
  6-firstdirectory:This script creates a directory named my_first_directory in the /tmp/ directory. It uses the mkdir command to create the directory.
 7-movethatfile:This script moves the file named betty from the /tmp/ directory to the /tmp/my_first_directory/ directory. It uses the mv command to perform the file move operation.
 8-firstdelete:This script deletes the file named betty located in the /tmp/my_first_directory directory. It uses the rm command to remove the file.
+9-firstdirdeletion:This script deletes the directory named my_first_directory located in the /tmp directory. It uses the rmdir command to remove the directory.
