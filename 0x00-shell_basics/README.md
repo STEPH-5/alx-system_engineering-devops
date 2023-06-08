@@ -11,3 +11,4 @@
 10-back:This script changes the working directory to the previous directory. It uses the cd - command to navigate back to the previous directory.
 11-lists:This script lists all files in the current directory, the parent directory, and the /boot directory in long format, including hidden files. It uses the ls -la command to list files with detailed information, where -l enables long format listing and -a includes hidden files.
 12-file_type:This script uses the file command with the file path /tmp/iamafile as an argument. The file command is used to determine the file type and provides information about the file.
+13-symbolic_link:This script uses the ln command with the -s option to create a symbolic link. The source file is /bin/ls, and the target link name is __ls__.
