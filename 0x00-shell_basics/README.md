@@ -17,4 +17,4 @@
 -r: Recursively copies directories and their contents.
 -u: Copies only when the source file is newer than the destination file or when the destination file does not exist.
 --update: Skips copying files that are newer in the destination directory.
-
+100-lets_move:This script uses the mv command to move files. The pattern [A-Z]* matches any file that starts with an uppercase letter. The files matching the pattern are then moved to the directory /tmp/u/.
