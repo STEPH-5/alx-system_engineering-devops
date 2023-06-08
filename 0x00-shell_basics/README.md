@@ -12,3 +12,9 @@
 11-lists:This script lists all files in the current directory, the parent directory, and the /boot directory in long format, including hidden files. It uses the ls -la command to list files with detailed information, where -l enables long format listing and -a includes hidden files.
 12-file_type:This script uses the file command with the file path /tmp/iamafile as an argument. The file command is used to determine the file type and provides information about the file.
 13-symbolic_link:This script uses the ln command with the -s option to create a symbolic link. The source file is /bin/ls, and the target link name is __ls__.
+14-copy_html:This script uses the cp command with the following options:
+
+-r: Recursively copies directories and their contents.
+-u: Copies only when the source file is newer than the destination file or when the destination file does not exist.
+--update: Skips copying files that are newer in the destination directory.
+
