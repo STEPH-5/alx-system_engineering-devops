@@ -10,3 +10,4 @@
 9-firstdirdeletion:This script deletes the directory named my_first_directory located in the /tmp directory. It uses the rmdir command to remove the directory.
 10-back:This script changes the working directory to the previous directory. It uses the cd - command to navigate back to the previous directory.
 11-lists:This script lists all files in the current directory, the parent directory, and the /boot directory in long format, including hidden files. It uses the ls -la command to list files with detailed information, where -l enables long format listing and -a includes hidden files.
+12-file_type:This script uses the file command with the file path /tmp/iamafile as an argument. The file command is used to determine the file type and provides information about the file.
