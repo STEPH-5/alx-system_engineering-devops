@@ -10,3 +10,4 @@
 10-mirror_permissions:When you run the script (./10-mirror_permissions), it will set the mode of the file "hello" to match the mode of the file "olleh".
 11-directories_permissions:When you run the script (./11-directories_permissions), it will add execute permission (a+x) to all subdirectories of the current directory, including the owner, the group owner, and all other users.
 12-directory_permissions:When you run the script (./12-directory_permissions), it will create a directory named my_dir with permissions 751 in the working directory.
+13-change_group:When you run the script (sudo ./13-change_group), it will change the group owner of the file "hello" to "school" in the working directory.
