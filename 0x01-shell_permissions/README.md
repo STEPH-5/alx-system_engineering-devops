@@ -5,3 +5,4 @@
 4-empty:When you run the script (./4-empty), it will create a new empty file called "hello" in the current directory.
 5-execute:When you run the script (./5-execute), it will add execute permission to the owner of the file "hello" in the current directory.
 6-multiple_permissions:When you run the script (./6-multiple_permissions), it will modify the permissions of the file "hello" as described.
+7-everybody:When you run the script (./7-everybody), it will add execution permission to the owner, group owner, and other users for the file "hello" in the current directory.
