@@ -12,3 +12,4 @@
 12-directory_permissions:When you run the script (./12-directory_permissions), it will create a directory named my_dir with permissions 751 in the working directory.
 13-change_group:When you run the script (sudo ./13-change_group), it will change the group owner of the file "hello" to "school" in the working directory.
 100-change_owner_and_group:When you run the script (sudo ./100-change_owner_and_group), it will change the owner to "vincent" and the group owner to "staff" for all files and directories in the working directory.
+101-symbolic_link_permissions:When you run the script (sudo ./101-symbolic_link_permissions), it will change the owner to vincent and the group owner to staff for the symbolic link _hello.
