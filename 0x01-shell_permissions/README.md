@@ -7,3 +7,4 @@
 6-multiple_permissions:When you run the script (./6-multiple_permissions), it will modify the permissions of the file "hello" as described.
 7-everybody:When you run the script (./7-everybody), it will add execution permission to the owner, group owner, and other users for the file "hello" in the current directory.
 8-James_Bond:When you run the script (./8-James_Bond), it will set the permissions for the file "hello" as specified: no permission for the owner and group owner, and read, write, and execute permissions for other users.9-John_Doe:When you run the script (./9-John_Doe), it will set the mode of the file "hello" as specified: -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello.
+10-mirror_permissions:When you run the script (./10-mirror_permissions), it will set the mode of the file "hello" to match the mode of the file "olleh".
