@@ -9,3 +9,4 @@
 8-James_Bond:When you run the script (./8-James_Bond), it will set the permissions for the file "hello" as specified: no permission for the owner and group owner, and read, write, and execute permissions for other users.9-John_Doe:When you run the script (./9-John_Doe), it will set the mode of the file "hello" as specified: -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello.
 10-mirror_permissions:When you run the script (./10-mirror_permissions), it will set the mode of the file "hello" to match the mode of the file "olleh".
 11-directories_permissions:When you run the script (./11-directories_permissions), it will add execute permission (a+x) to all subdirectories of the current directory, including the owner, the group owner, and all other users.
+12-directory_permissions:When you run the script (./12-directory_permissions), it will create a directory named my_dir with permissions 751 in the working directory.
