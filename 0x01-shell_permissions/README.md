@@ -14,3 +14,4 @@
 100-change_owner_and_group:When you run the script (sudo ./100-change_owner_and_group), it will change the owner to "vincent" and the group owner to "staff" for all files and directories in the working directory.
 101-symbolic_link_permissions:When you run the script (sudo ./101-symbolic_link_permissions), it will change the owner to vincent and the group owner to staff for the symbolic link _hello.
 102-if_only:When you run the script (./102-if_only), it will check if the owner of the file hello is guillaume, and if so, it will change the owner to betty using the chown command.
+103-Star_Wars:When you run the script (./103-Star_Wars), it will initiate the telnet connection to the towel.blinkenlights.nl server and start playing the Star Wars Episode IV in ASCII art in the terminal.
