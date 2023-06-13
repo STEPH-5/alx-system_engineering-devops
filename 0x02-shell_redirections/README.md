@@ -266,4 +266,4 @@ The command will search for empty directories and empty files recursively in the
 
 
 
-  
+22-users_and_homes:The purpose of this script is to extract the username and home directory information from the /etc/passwd file and display them in alphabetical order by username.   
