@@ -10,3 +10,4 @@
 Here's a script that prints the result of adding 128 to the value stored in the TRUEKNOWLEDGE environment variable
 9-divide_and_rule:Here's a script that prints the result of dividing the value of the POWER environment variable by the value of the DIVIDE environment variable
 10-love_exponent_breath:Here's a script that displays the result of raising the value of the BREATH environment variable to the power of the value of the LOVE environment variable
+11-binary_to_decimal:Here's a script that converts a number from base 2 to base 10
