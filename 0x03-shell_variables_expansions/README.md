@@ -6,3 +6,5 @@
 5-local_variables:Here's a script that adheres to the requirement of being exactly two lines long
 6-create_local_variable:Here's a script that creates a new local variable called BEST with the value "School":
 7-create_global_variable:Here's an example of how you can export a global variable
+8-true_knowledge:
+Here's a script that prints the result of adding 128 to the value stored in the TRUEKNOWLEDGE environment variable
