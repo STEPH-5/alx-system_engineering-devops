@@ -6,3 +6,4 @@
 5-firstlines:When you execute the script ./5-firstlines, it will display the first 10 lines of the /etc/passwd file on the standard output.
  6-third_line:When you execute the script ./6-third_line, it will display the third line of the file iacta on the standard output. The script uses the head and tail commands to extract the third line from the file.
 8-cwd_state:When you run the script (./8-cwd_state), it will execute the ls -la command and redirect the output to the ls_cwd_content file. After running the script, you can verify the contents of the file using cat ls_cwd_content.
+9-duplicate_last_line:When you run the script, it will use the sed command to extract the last line of the file iacta and append it to the end of the file.
