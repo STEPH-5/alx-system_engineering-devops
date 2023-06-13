@@ -1,0 +1,1 @@
+0-alias:In this script, the first line is the shebang (#!/bin/bash) as required. The second line uses the echo command to create the alias ls='rm *'. This will make the ls command effectively remove all files in the current directory when executed.
