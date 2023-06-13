@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -F ":" '{print $1 ":" $6}' /etc/passwd | sort
+cut -d ":" -fi,6 /etc/passwd | sort
