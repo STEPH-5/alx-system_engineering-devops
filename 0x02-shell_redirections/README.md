@@ -15,4 +15,5 @@ head -n 10 selects the first 10 lines (i.e., the 10 newest files).
 14-findthatword:The purpose of this script is to search for lines in the file /etc/passwd that contain the pattern "root" and display those lines.
 15-countthatword:The purpose of this script is to search for lines in the file /etc/passwd that contain the pattern "bin" and count the number of such lines.
 16-whatsnext:The purpose of this script is to search for lines in the file /etc/passwd that contain the pattern "root" and display those lines along with the 3 lines that follow them
-17-hidethisword:The purpose of this script is to search for lines in the file /etc/passwd that do not contain the pattern "bin" and display those lines. 
+17-hidethisword:The purpose of this script is to search for lines in the file /etc/passwd that do not contain the pattern "bin" and display those lines.
+ 18-letteronly:The purpose of this script is to search for lines in the file /etc/ssh/sshd_config that start with a letter.  
