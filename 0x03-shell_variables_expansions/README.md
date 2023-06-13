@@ -2,3 +2,4 @@
 1-hello_you:Here's a script that prints "hello user" where "user" is the current Linux user
 2-path:Here's an updated version of the script that adheres to the requirement of being exactly two lines long and contains the ; operator
 3-paths:Here's an updated version of the script that adheres to the requirement of being exactly two lines long
+4-global_variables:Here's a script that lists the environment variables
