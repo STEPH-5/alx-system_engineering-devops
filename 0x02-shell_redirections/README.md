@@ -9,4 +9,7 @@
 9-duplicate_last_line:When you run the script, it will use the sed command to extract the last line of the file iacta and append it to the end of the file.
 10-no_more_js: When you run the script, it will use the find command to locate all regular files (-type f) with a .js extension (-name "*.js") in the current directory and its subfolders, and then delete them using the -delete option.
 11-directories:This script counts the number of directories and sub-directories in the current directory, excluding the current and parent directories. It excludes hidden directories and outputs the total count.
-
+12-newest_files:The ls -lt command lists all files in the current directory, sorted by modification time in descending order.
+grep '^-' filters out directories from the output.
+awk '{print $NF}' extracts the filename from each line.
+head -n 10 selects the first 10 lines (i.e., the 10 newest files).
