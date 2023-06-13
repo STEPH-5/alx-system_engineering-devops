@@ -8,3 +8,4 @@
 7-create_global_variable:Here's an example of how you can export a global variable
 8-true_knowledge:
 Here's a script that prints the result of adding 128 to the value stored in the TRUEKNOWLEDGE environment variable
+9-divide_and_rule:Here's a script that prints the result of dividing the value of the POWER environment variable by the value of the DIVIDE environment variable
