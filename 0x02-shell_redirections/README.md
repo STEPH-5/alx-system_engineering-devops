@@ -12,3 +12,4 @@
 12-newest_files:The ls -lt command lists all files in the current directory, sorted by modification time in descending order.
 head -n 10 selects the first 10 lines (i.e., the 10 newest files).
 13-unique:The script utilizes the sort command to sort the words in alphabetical order and then pipes the sorted words to the uniq -u command, which filters out the duplicate lines and prints only the unique lines.
+14-findthatword:The purpose of this script is to search for lines in the file /etc/passwd that contain the pattern "root" and display those lines.
