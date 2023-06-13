@@ -11,4 +11,4 @@
 11-directories:This script counts the number of directories and sub-directories in the current directory, excluding the current and parent directories. It excludes hidden directories and outputs the total count.
 12-newest_files:The ls -lt command lists all files in the current directory, sorted by modification time in descending order.
 head -n 10 selects the first 10 lines (i.e., the 10 newest files).
-13-unique:The purpose of this script is to process a list of words and filter out the words that appear more than once, only displaying the words that are unique occurrences. The script utilizes the sort command to sort the words in alphabetical order and then pipes the sorted words to the uniq -u command, which filters out the duplicate lines and prints only the unique lines.
+13-unique:The script utilizes the sort command to sort the words in alphabetical order and then pipes the sorted words to the uniq -u command, which filters out the duplicate lines and prints only the unique lines.
