@@ -14,3 +14,4 @@ Here's a script that prints the result of adding 128 to the value stored in the 
 12-combinations: Here's the corrected version of the script using the echo command
 13-print_float: Here's the script that prints a number with two decimal places
 100-decimal_to_hexadecimal:Here's the script that converts a number from base 10 to base 16
+101-rot13: Here's the script that encodes and decodes text using the rot13 encryption
