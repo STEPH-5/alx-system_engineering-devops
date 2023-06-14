@@ -13,3 +13,4 @@ Here's a script that prints the result of adding 128 to the value stored in the 
 11-binary_to_decimal:Here's a script that converts a number from base 2 to base 10
 12-combinations: Here's the corrected version of the script using the echo command
 13-print_float: Here's the script that prints a number with two decimal places
+100-decimal_to_hexadecimal:Here's the script that converts a number from base 10 to base 16
